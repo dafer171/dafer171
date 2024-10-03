@@ -1,11 +1,9 @@
-## Hi there 👋
-
-<!--
-**dafer171/dafer171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # David Peña 
 
-Hello, GitHub! 👋
+## Hi there 👋
+
+**dafer171/dafer171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 I'm David, a student at Brigham Young University-Idaho interested in Software development. Welcome to my GitHub profile! 
 
