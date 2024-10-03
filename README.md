@@ -15,7 +15,4 @@ I'm David, a student at Brigham Young University-Idaho interested in Software de
 ## Let's Connect!
 - 📫 Here is my LinkedIn: www.linkedin.com/in/david-peña-andrade profile
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
--->
