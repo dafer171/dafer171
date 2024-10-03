@@ -5,7 +5,7 @@
 I'm David, a student at Brigham Young University-Idaho interested in Software development. Welcome to my GitHub profile! 
 
 ## About Me
-- 🔭 I’m currently working on Customer Suppor Engineering
+- 🔭 I’m currently working as a Customer Suppor Engineer
 - 🌱 I’m currently learning C#
 - 👯 My goals are to finish my bachelor's degree in Software Development before summer 
 
