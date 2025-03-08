@@ -6,7 +6,7 @@ I'm David, a student at Brigham Young University-Idaho interested in Software de
 
 ## About Me
 - 🔭 I’m currently working as a Customer Suppor Engineer
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning a bit of JAVA
 - 👯 My goals are to finish my bachelor's degree in Software Development before summer, master C# and Node.js
 - I am passionate about technology in general, especially home automation and wearables. I would love to program them.
 
